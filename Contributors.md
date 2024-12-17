@@ -642,6 +642,7 @@
 - [Sixtus Agbo](https://github.com/sixtusagbo)
 - [Siddhesh Gawade](https://github.com/sid293)👋
 - [Huzaifa Azim](https://github.com/huzaifaazim0)
+- [KNS-Ashura](https://github.com/KNS-Ashura)
 - [Joanna McDonald](https://github.com/joannamcd)
 - [Tianna Lopes](https://github.com/TiannaLopes)
 - [dDevAhmed](https://github.com/dDevAhmed/)
@@ -1562,7 +1563,7 @@
 - [Lumbini Tambat](https://github.com/Alat07)
 - [Burak_Altun](https://github.com/mburakaltun)
 - [Edgit G](https://github.com/flame0618)
-[alvisha](https://github.com/Alvisha-28)
+- [alvisha](https://github.com/Alvisha-28)
 - [Abhishek Kumar Roy](https://github.com/Abhishek-kroy)
 - [Shubham Kumar Subudhi](https://github.com/subhamKS)
 - [Luciano-Jeonhyunjun](https://github.com/Luciano-JeonHyunJun)
